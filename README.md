@@ -2,7 +2,7 @@ Simple upgrade to Mescht Zero Cycle Practice, adding ability to practice zero cy
 
 How to use:
 
-First time loading the world, run:
+First time loading the world, run the command:
 
 /function practice:practice_setup
 
