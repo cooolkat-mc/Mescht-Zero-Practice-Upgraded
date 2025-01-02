@@ -4,7 +4,7 @@ How to use:
 
 First time loading the world, run the command:
 
-/function practice:practice_setup
+**`/function practice:practice_setup`**
 
 after this, it should work properly and you never have to run it again. Just click the sign to toggle setup mode on or off.
 
